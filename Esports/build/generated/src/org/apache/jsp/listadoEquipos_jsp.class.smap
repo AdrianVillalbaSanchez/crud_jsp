@@ -1,0 +1,20 @@
+SMAP
+listadoEquipos_jsp.java
+JSP
+*S JSP
+*F
++ 0 listadoEquipos.jsp
+listadoEquipos.jsp
+*L
+1,22:49
+23,6:72
+28,16:78
+44,6:95
+49,3:101
+52,3:104,3
+55,5:113
+60:118,3
+61,4:121
+65,4:126
+68,12:130
+*E
