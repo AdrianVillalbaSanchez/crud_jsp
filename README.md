@@ -1,5 +1,5 @@
 # crud_jsp
 
-El trabajo versará sobre eSports (gaming profesional), contará con tres tablas:
+El trabajo versará sobre eSports (gaming profesional), contará con dos tablas:
 
-Multisquads, jugadores y videojuegos.
+Equipos y jugadores.
