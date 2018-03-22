@@ -1,9 +1,9 @@
 # crud_jsp
 
-# Descripción
+## Descripción
 El trabajo versará sobre eSports (gaming profesional), contará con dos tablas: Equipos y jugadores.
 
-# Capturas
+## Capturas
 Proyecto en NetBeans
 <img src="Captura1.JPG">
 
